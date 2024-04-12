@@ -1,4 +1,4 @@
-name: Java CI Test
+name: Java CI Test  
 on:
   push:
     branches:
